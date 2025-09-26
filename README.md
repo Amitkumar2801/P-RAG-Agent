@@ -48,9 +48,3 @@ Our system consists of a team of specialized AI Agents that collaborate to educa
 
 ---
 
-## 📝 Next Step: `requirements.txt` File
-
-Ab jab aapne `README.md` ko commit kar diya hai, toh sabse zaroori file **`requirements.txt`** banana hai, jiska zikr humne `README` ke setup section mein kiya hai.
-
-Root folder mein ek file **`requirements.txt`** banayein aur usmein yeh libraries copy-paste karein:
-
