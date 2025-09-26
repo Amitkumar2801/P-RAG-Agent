@@ -1,4 +1,4 @@
-# 🚀 P-RAG-Agent-by-CHAMGADAR: Personalized RAG-Based Learning System
+🚀 P-RAG-Agent-Personalized-RAG-Based-Learning-System
 
 ### Project Overview
 This project develops a **Personalized Retrieval-Augmented Generation (P-RAG) Agent**, a sophisticated AI tutor that teaches complex topics using a custom knowledge base (PDFs, documents). Unlike general chatbots, this system leverages a **Multi-Agent Architecture** to deliver a structured, personalized, and verifiable learning experience.
